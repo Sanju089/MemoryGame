@@ -1,5 +1,5 @@
 # MemoryGame
 Created with CodeSandbox
 
-#for Clone
-git clone
+#For Clone
+git clone https://github.com/Sanju089/MemoryGame.git
