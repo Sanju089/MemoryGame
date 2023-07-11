@@ -19,7 +19,7 @@ import { CardItemList } from "./components/CardItemList";
 function App() {
   return (
     <div className="App">
-      <h1>make change for git check</h1>
+     
       <CardItemList></CardItemList>
     </div>
   );
