@@ -19,7 +19,7 @@ import { CardItemList } from "./components/CardItemList";
 function App() {
   return (
     <div className="App">
-     
+     <h1>this is memory game</h1>
       <CardItemList></CardItemList>
     </div>
   );
